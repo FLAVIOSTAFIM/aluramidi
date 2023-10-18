@@ -1,2 +1,5 @@
-document.querySelector('#tecla_som pom') .play()
+function tocarSomPom(){
+    document.querySelector('tecla_som_pom').play()
+}
+c
 
