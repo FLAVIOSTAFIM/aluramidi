@@ -1,5 +1,1 @@
-function tocarSomPom(){
-    document.querySelector('tecla_som_pom').play()
-}
-c
-
+document.querySelector('#son_tecla_pom').play();
